@@ -13,7 +13,7 @@ Here are some visuals that support the project:
 ![Design Overview](image/Vex-robot-final.jpg)
 *Overview of the VEX Robotic design.*
 
-![Poster Photo](documents/ME-444-Capstone-Poster-Draft-Team-17-SofTech-Robotics.pdf)
+![Poster Photo](documents/ME-444-Capstone-Poster-Draft-Team-17-SofTech-Robotics-.jpg)
 *Draft poster of project progress*
 
 ## Conclusion
