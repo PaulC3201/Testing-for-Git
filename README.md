@@ -1,8 +1,8 @@
-# Title
-Soft End Effector Project GMU Side
+# Soft End Effector, SofTech Robotics
+Project of GMU Side
 
 ## Objective
-To design and build a soft robotic end effector capable of grasping delicate objects for aquatic research and other sensitive tasks.
+To design and build a soft robotic end effector capable of grasping delicate objects without causing damage.
 
 ## Description
 This project involves the development of a soft, flexible, and sensor-integrated end effector for a 6 DOF robotic arm. It emphasizes lightweight materials, adaptive grasping techniques, and water-resistant features.
